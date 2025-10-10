@@ -181,6 +181,15 @@ body {
 .forma button:hover {
   background-color: #005f8d;
 }
+.backlink a {
+  color: #0077b6;
+  font-weight: 500;
+}
+
+.backlink a:hover {
+  text-decoration: bold;
+  color: #005f8d;
+}
 .copyright {
   text-align: center;
   font-size: 14px;
